@@ -24,6 +24,13 @@ This project has more features than just licenes plate detection, here are some 
  - Import all images from folder making it easy to analyze multiple images at once
  Prediction of approximate vehicle size height and length 
  
+ ### Getting Started
+ - Create and activate virtual environment for your OS - [Environment Setup](./docs/environments.md#Environment Setup)
+ - Install project requirements requirements - 
+ ```python
+pip install -r requirements.txt
+```
+ 
  
  ToDos:
 
